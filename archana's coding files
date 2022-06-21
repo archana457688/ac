@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>❤ Archana's personal site</title>
+</head>
+
+<body>
+  <img src="IMG_7237-modified.png" alt="Archana's profile pic">
+  <h1>Archana Prajapati</h1>
+  <p><em>An <strong>angle</strong> investor</em></p>
+  <p>I am a student who loves coding and wanna become coder in few months.</p>
+  <hr size="4" noshade>
+  <h3>Books🕮 and Videos</h3>
+  <ul>
+    <li>The subtle art of not giving a fuck</li>
+    <li>atomic habits</li>
+    <li>the law of human nature</li>
+  </ul>
+  <h3>Hobbies</h3>
+  <ol>
+    <li>reading</li>
+    <li>finance</li>
+    <li>coding</li>
+  </ol>
+</body>
+
+</html>
